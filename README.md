@@ -1,4 +1,4 @@
-Rest service initially built for AdobeHunt application.
+NodeJS REST service with MongoDB integration.
 
 Rewritten with native mongodb driver for node.
 
